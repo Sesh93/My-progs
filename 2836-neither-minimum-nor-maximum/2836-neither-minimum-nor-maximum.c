@@ -1,11 +1,19 @@
-int compare(const void *a,const void *b){
-    return (*(int *)a)-(*(int *)b);
-}
 
-int findNonMinOrMax(int* nums, int n){
+
+int findNonMinOrMax(int* arr, int n){
     if(n<=2)
     return -1;
-qsort(nums,n,sizeof(int),compare);
-return nums[1];
+    int i, key, j;
+    for (i = 1; i < 3; i++) {
+        key = arr[i];
+        j = i - 1;
+
+        while (j >= 0 && arr[j] > key) {
+            arr[j + 1] = arr[j];
+            j = j - 1;
+        }
+        arr[j + 1] = key;
+    }
+return arr[1];
 
 }

@@ -6,12 +6,12 @@ public:
         for(int i=0;i<nums.size();i++)
         {
             if(nums[i]!=0)
-                ans.push_back(nums[i]);
+                ans.emplace_back(nums[i]);
             else
                 cnt++;
         }
         for(int i=0;i<cnt;i++)
-            ans.push_back(0);
+            ans.emplace_back(0);
         swap(nums,ans);
     }
 };

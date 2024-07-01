@@ -6,10 +6,10 @@ public:
         {
             l1[nums[i]]++;
         }
-        for(int i=0;i<nums.size();i++)
+        for(auto i:l1)
         {
-            if(l1[nums[i]]==1)
-                return nums[i];
+            if(i.second==1)
+                return i.first;
         }
         return 0;
     }

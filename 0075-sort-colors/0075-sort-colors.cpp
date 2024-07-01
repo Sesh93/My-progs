@@ -1,6 +1,8 @@
 class Solution {
 public:
     void sortColors(vector<int>& nums) {
+        ios_base::sync_with_stdio(false);
+        cin.tie(NULL);
         int zc=0,oc=0,tc=0,i;
         for(i=0;i<nums.size();i++)
         {

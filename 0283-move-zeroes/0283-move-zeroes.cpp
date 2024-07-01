@@ -9,7 +9,6 @@ public:
                 nums[k++]=nums[i];
             }
         }
-        cout<<k;
         for(int i=k;i<n;i++)
         {
             nums[k++]=0;

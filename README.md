@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Sesh93/My-progs/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Sesh93/My-progs/tree/master/0231-power-of-two) |
+| [2427-first-letter-to-appear-twice](https://github.com/Sesh93/My-progs/tree/master/2427-first-letter-to-appear-twice) |
 ## Recursion
 |  |
 | ------- |
@@ -54,10 +55,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Sesh93/My-progs/tree/master/0387-first-unique-character-in-a-string) |
+| [2427-first-letter-to-appear-twice](https://github.com/Sesh93/My-progs/tree/master/2427-first-letter-to-appear-twice) |
 ## String
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Sesh93/My-progs/tree/master/0387-first-unique-character-in-a-string) |
+| [2427-first-letter-to-appear-twice](https://github.com/Sesh93/My-progs/tree/master/2427-first-letter-to-appear-twice) |
 ## Queue
 |  |
 | ------- |
@@ -66,4 +69,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Sesh93/My-progs/tree/master/0387-first-unique-character-in-a-string) |
+| [2427-first-letter-to-appear-twice](https://github.com/Sesh93/My-progs/tree/master/2427-first-letter-to-appear-twice) |
 <!---LeetCode Topics End-->

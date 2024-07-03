@@ -2,10 +2,9 @@ class Solution {
 public:
     void reverseString(vector<char>& s) {
         vector<char> ans;
-        for(int i=s.size()-1,j=0;i>=0;i--,j++)
+        for(int i=s.size()-1,j=0;j<i;i--,j++)
         {
-            ans.push_back(s[i]);
+            swap(s[i],s[j]);
         }
-        swap(ans,s);
     }
 };

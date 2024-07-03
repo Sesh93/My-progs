@@ -9,9 +9,9 @@ public:
             arr[s[i]-'a']++;
             arr[t[i]-'a']--;
         }
-        for(int i=0;i<s.size();i++)
+        for(int i=0;i<26;i++)
         {
-            if(arr[s[i]-'a']!=0)
+            if(arr[i]!=0)
                 return false;
         }
         return true;

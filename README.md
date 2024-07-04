@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Sesh93/My-progs/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sesh93/My-progs/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/Sesh93/My-progs/tree/master/0283-move-zeroes) |
+| [0898-transpose-matrix](https://github.com/Sesh93/My-progs/tree/master/0898-transpose-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/Sesh93/My-progs/tree/master/1677-matrix-diagonal-sum) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Sesh93/My-progs/tree/master/2836-neither-minimum-nor-maximum) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Sesh93/My-progs/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -87,5 +88,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0898-transpose-matrix](https://github.com/Sesh93/My-progs/tree/master/0898-transpose-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/Sesh93/My-progs/tree/master/1677-matrix-diagonal-sum) |
+## Simulation
+|  |
+| ------- |
+| [0898-transpose-matrix](https://github.com/Sesh93/My-progs/tree/master/0898-transpose-matrix) |
 <!---LeetCode Topics End-->

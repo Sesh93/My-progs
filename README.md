@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Sesh93/My-progs/tree/master/0283-move-zeroes) |
 | [0898-transpose-matrix](https://github.com/Sesh93/My-progs/tree/master/0898-transpose-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/Sesh93/My-progs/tree/master/1677-matrix-diagonal-sum) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/Sesh93/My-progs/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Sesh93/My-progs/tree/master/2836-neither-minimum-nor-maximum) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Sesh93/My-progs/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Math

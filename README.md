@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Sesh93/My-progs/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sesh93/My-progs/tree/master/0004-median-of-two-sorted-arrays) |
 | [0075-sort-colors](https://github.com/Sesh93/My-progs/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Sesh93/My-progs/tree/master/0136-single-number) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Sesh93/My-progs/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/Sesh93/My-progs/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sesh93/My-progs/tree/master/0387-first-unique-character-in-a-string) |
 | [2427-first-letter-to-appear-twice](https://github.com/Sesh93/My-progs/tree/master/2427-first-letter-to-appear-twice) |

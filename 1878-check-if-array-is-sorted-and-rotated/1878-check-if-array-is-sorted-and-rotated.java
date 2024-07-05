@@ -3,6 +3,8 @@ class Solution {
     {
         int cnt=0;
         int n=nums.length;
+        if(n<=2)
+        return true;
         if(nums[0]<nums[n-1])
             cnt++;
         for(int i=1;i<n;i++)

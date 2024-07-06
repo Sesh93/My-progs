@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Sesh93/My-progs/tree/master/0035-search-insert-position) |
 | [0275-h-index-ii](https://github.com/Sesh93/My-progs/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/Sesh93/My-progs/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/Sesh93/My-progs/tree/master/0374-guess-number-higher-or-lower) |
 | [0792-binary-search](https://github.com/Sesh93/My-progs/tree/master/0792-binary-search) |
 ## Matrix
 |  |
@@ -110,4 +111,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Sesh93/My-progs/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/Sesh93/My-progs/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->

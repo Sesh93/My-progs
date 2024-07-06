@@ -2,6 +2,7 @@ class Solution {
 public:
     int search(vector<int>& nums, int target) {
         int l=0,r=nums.size()-1,mid;
+        ios_base::sync_with_stdio(false);
         while(l<=r)
         {
             mid=(l+r)/2;

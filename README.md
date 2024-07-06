@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Sesh93/My-progs/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Sesh93/My-progs/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sesh93/My-progs/tree/master/0215-kth-largest-element-in-an-array) |
+| [0275-h-index-ii](https://github.com/Sesh93/My-progs/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/Sesh93/My-progs/tree/master/0283-move-zeroes) |
 | [0792-binary-search](https://github.com/Sesh93/My-progs/tree/master/0792-binary-search) |
 | [0898-transpose-matrix](https://github.com/Sesh93/My-progs/tree/master/0898-transpose-matrix) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sesh93/My-progs/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Sesh93/My-progs/tree/master/0035-search-insert-position) |
+| [0275-h-index-ii](https://github.com/Sesh93/My-progs/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/Sesh93/My-progs/tree/master/0278-first-bad-version) |
 | [0792-binary-search](https://github.com/Sesh93/My-progs/tree/master/0792-binary-search) |
 ## Matrix

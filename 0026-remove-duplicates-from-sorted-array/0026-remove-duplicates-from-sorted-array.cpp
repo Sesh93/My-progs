@@ -1,15 +1,21 @@
 class Solution {
 public:
     int removeDuplicates(vector<int>& nums) {
-        map<int,int> ans;
-        for(int i=0;i<nums.size();i++)
+        unordered_map<int,int> ans;
+        int n=nums.size();
+        for(int i=0;i<n;i++)
         {
             ans[nums[i]]++;
         }
         vector<int> temp;
-        for(auto i:ans)
+        for(int i=0;i<n;i++)
         {
-            temp.emplace_back(i.first);
+            if(ans[nums[i]]!=0)
+            {
+                ans[nums[i]]=0;
+                temp.emplace_back(nums[i]);
+            }
+
         }
         swap(temp,nums);
         return ans.size();

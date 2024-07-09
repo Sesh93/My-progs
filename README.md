@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Sesh93/My-progs/tree/master/0125-valid-palindrome) |
+| [0214-shortest-palindrome](https://github.com/Sesh93/My-progs/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/Sesh93/My-progs/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Sesh93/My-progs/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sesh93/My-progs/tree/master/0387-first-unique-character-in-a-string) |
@@ -117,4 +118,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0278-first-bad-version](https://github.com/Sesh93/My-progs/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Sesh93/My-progs/tree/master/0374-guess-number-higher-or-lower) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Sesh93/My-progs/tree/master/0214-shortest-palindrome) |
+## String Matching
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Sesh93/My-progs/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Sesh93/My-progs/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->

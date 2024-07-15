@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sesh93/My-progs/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Sesh93/My-progs/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sesh93/My-progs/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/Sesh93/My-progs/tree/master/0217-contains-duplicate) |
 | [0275-h-index-ii](https://github.com/Sesh93/My-progs/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/Sesh93/My-progs/tree/master/0283-move-zeroes) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Sesh93/My-progs/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Sesh93/My-progs/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sesh93/My-progs/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/Sesh93/My-progs/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Sesh93/My-progs/tree/master/0242-valid-anagram) |
 | [1019-squares-of-a-sorted-array](https://github.com/Sesh93/My-progs/tree/master/1019-squares-of-a-sorted-array) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Sesh93/My-progs/tree/master/2836-neither-minimum-nor-maximum) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Sesh93/My-progs/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sesh93/My-progs/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0217-contains-duplicate](https://github.com/Sesh93/My-progs/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Sesh93/My-progs/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sesh93/My-progs/tree/master/0387-first-unique-character-in-a-string) |
 | [2427-first-letter-to-appear-twice](https://github.com/Sesh93/My-progs/tree/master/2427-first-letter-to-appear-twice) |

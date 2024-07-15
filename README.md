@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Sesh93/My-progs/tree/master/0217-contains-duplicate) |
 | [0275-h-index-ii](https://github.com/Sesh93/My-progs/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/Sesh93/My-progs/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Sesh93/My-progs/tree/master/0349-intersection-of-two-arrays) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Sesh93/My-progs/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Sesh93/My-progs/tree/master/0792-binary-search) |
 | [0898-transpose-matrix](https://github.com/Sesh93/My-progs/tree/master/0898-transpose-matrix) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Sesh93/My-progs/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Sesh93/My-progs/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Sesh93/My-progs/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/Sesh93/My-progs/tree/master/0349-intersection-of-two-arrays) |
 | [1019-squares-of-a-sorted-array](https://github.com/Sesh93/My-progs/tree/master/1019-squares-of-a-sorted-array) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Sesh93/My-progs/tree/master/2836-neither-minimum-nor-maximum) |
 ## Heap (Priority Queue)
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Sesh93/My-progs/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Sesh93/My-progs/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Sesh93/My-progs/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/Sesh93/My-progs/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/Sesh93/My-progs/tree/master/0392-is-subsequence) |
 | [1019-squares-of-a-sorted-array](https://github.com/Sesh93/My-progs/tree/master/1019-squares-of-a-sorted-array) |
 ## Bit Manipulation
@@ -82,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sesh93/My-progs/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/Sesh93/My-progs/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Sesh93/My-progs/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/Sesh93/My-progs/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sesh93/My-progs/tree/master/0387-first-unique-character-in-a-string) |
 | [2427-first-letter-to-appear-twice](https://github.com/Sesh93/My-progs/tree/master/2427-first-letter-to-appear-twice) |
 ## String
@@ -112,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sesh93/My-progs/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0275-h-index-ii](https://github.com/Sesh93/My-progs/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/Sesh93/My-progs/tree/master/0278-first-bad-version) |
+| [0349-intersection-of-two-arrays](https://github.com/Sesh93/My-progs/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/Sesh93/My-progs/tree/master/0374-guess-number-higher-or-lower) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Sesh93/My-progs/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Sesh93/My-progs/tree/master/0792-binary-search) |

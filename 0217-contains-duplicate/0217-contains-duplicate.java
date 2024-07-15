@@ -4,12 +4,9 @@ class Solution {
         int n = nums.length;
         for(int i=0;i<n;i++)
         {
-            h1.add(nums[i]);
+            if(!h1.add(nums[i]))
+                return true;
         }
-        int m = h1.size();
-        if(n==m)
-            return false;
-        else
-            return true;
+        return false;
     }
 }

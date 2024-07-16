@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Sesh93/My-progs/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Sesh93/My-progs/tree/master/0392-is-subsequence) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Sesh93/My-progs/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Sesh93/My-progs/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [2427-first-letter-to-appear-twice](https://github.com/Sesh93/My-progs/tree/master/2427-first-letter-to-appear-twice) |
 ## Queue
 |  |
@@ -160,4 +161,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Sesh93/My-progs/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Sesh93/My-progs/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 <!---LeetCode Topics End-->

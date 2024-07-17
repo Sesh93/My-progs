@@ -15,11 +15,11 @@ public:
             pq.pop();
             b=pq.top();
             pq.pop();
-            if(a!=b)
-                pq.push(a-b);
+            if(a==b&&pq.empty())
+                return 0;
             else
-                pq.push(0);
+                pq.push(a-b);
         }
-        return pq.top();
+        return 0;
     }
 };

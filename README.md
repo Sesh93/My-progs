@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sesh93/My-progs/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/Sesh93/My-progs/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Sesh93/My-progs/tree/master/0125-valid-palindrome) |
 | [0214-shortest-palindrome](https://github.com/Sesh93/My-progs/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/Sesh93/My-progs/tree/master/0242-valid-anagram) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Sesh93/My-progs/tree/master/0020-valid-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Sesh93/My-progs/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Sesh93/My-progs/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 <!---LeetCode Topics End-->

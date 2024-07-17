@@ -13,11 +13,11 @@ public:
             pq.pop();
             b=pq.top();
             pq.pop();
-            if(a==b&&pq.empty())
-                return 0;
-            else
+            if(a!=b)
                 pq.push(a-b);
         }
-        return pq.top();
+        if(!pq.empty())
+            return pq.top();
+        return 0;
     }
 };

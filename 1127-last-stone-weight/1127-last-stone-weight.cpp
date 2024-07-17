@@ -7,10 +7,8 @@ public:
         {
             pq.push(i);
         }
-        while(!pq.empty())
+        while(pq.size()>1)
         {
-            if(pq.size()==1)
-                return pq.top();
             a=pq.top();
             pq.pop();
             b=pq.top();
@@ -20,6 +18,6 @@ public:
             else
                 pq.push(a-b);
         }
-        return 0;
+        return pq.top();
     }
 };

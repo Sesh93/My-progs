@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Sesh93/My-progs/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sesh93/My-progs/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Sesh93/My-progs/tree/master/0217-contains-duplicate) |
+| [0239-sliding-window-maximum](https://github.com/Sesh93/My-progs/tree/master/0239-sliding-window-maximum) |
 | [0275-h-index-ii](https://github.com/Sesh93/My-progs/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/Sesh93/My-progs/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Sesh93/My-progs/tree/master/0349-intersection-of-two-arrays) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sesh93/My-progs/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/Sesh93/My-progs/tree/master/0239-sliding-window-maximum) |
 | [1127-last-stone-weight](https://github.com/Sesh93/My-progs/tree/master/1127-last-stone-weight) |
 ## Quickselect
 |  |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Sesh93/My-progs/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sesh93/My-progs/tree/master/0387-first-unique-character-in-a-string) |
 ## Counting
 |  |
@@ -160,10 +163,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sesh93/My-progs/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0239-sliding-window-maximum](https://github.com/Sesh93/My-progs/tree/master/0239-sliding-window-maximum) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sesh93/My-progs/tree/master/0020-valid-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Sesh93/My-progs/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Sesh93/My-progs/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Sesh93/My-progs/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->

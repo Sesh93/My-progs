@@ -12,29 +12,28 @@ class Solution {
 public:
     ListNode* middleNode(ListNode* head) 
     {
-        int size=sizeNode(head);
         int count=0;
-        ListNode *current=head;
-        while(count!=((size/2)))
+        ListNode *turtle=head,*rabbit=head;
+        while(rabbit!=nullptr&&rabbit->next!=nullptr)
         {
-            count++;
-            current=current->next;
+            rabbit=rabbit->next->next;
+            turtle=turtle->next;
         }
-        return current;
+        return turtle;
     }
-    int sizeNode(ListNode *head)
-    {
-        ListNode *current=head;
-        int size=0;
-        if(current==nullptr)
-            return 0;
-        if(current->next==nullptr)
-            return 1;
-        while(current!=nullptr)
-        {
-            size++;
-            current=current->next;
-        }
-        return size;
-    }
+    // int sizeNode(ListNode *head)
+    // {
+    //     ListNode *current=head;
+    //     int size=0;
+    //     if(current==nullptr)
+    //         return 0;
+    //     if(current->next==nullptr)
+    //         return 1;
+    //     while(current!=nullptr)
+    //     {
+    //         size++;
+    //         current=current->next;
+    //     }
+    //     return size;
+    // }
 };

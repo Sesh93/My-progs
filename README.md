@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Sesh93/My-progs/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Sesh93/My-progs/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/Sesh93/My-progs/tree/master/0392-is-subsequence) |
+| [0908-middle-of-the-linked-list](https://github.com/Sesh93/My-progs/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/Sesh93/My-progs/tree/master/1019-squares-of-a-sorted-array) |
 ## Bit Manipulation
 |  |
@@ -182,4 +183,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Sesh93/My-progs/tree/master/0239-sliding-window-maximum) |
+## Linked List
+|  |
+| ------- |
+| [0908-middle-of-the-linked-list](https://github.com/Sesh93/My-progs/tree/master/0908-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->

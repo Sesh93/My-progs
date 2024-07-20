@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Sesh93/My-progs/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sesh93/My-progs/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/Sesh93/My-progs/tree/master/0035-search-insert-position) |
+| [0054-spiral-matrix](https://github.com/Sesh93/My-progs/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/Sesh93/My-progs/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Sesh93/My-progs/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sesh93/My-progs/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -139,12 +140,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Sesh93/My-progs/tree/master/0054-spiral-matrix) |
 | [0898-transpose-matrix](https://github.com/Sesh93/My-progs/tree/master/0898-transpose-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Sesh93/My-progs/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/Sesh93/My-progs/tree/master/1677-matrix-diagonal-sum) |
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Sesh93/My-progs/tree/master/0054-spiral-matrix) |
 | [0898-transpose-matrix](https://github.com/Sesh93/My-progs/tree/master/0898-transpose-matrix) |
 | [2645-pass-the-pillow](https://github.com/Sesh93/My-progs/tree/master/2645-pass-the-pillow) |
 ## Interactive

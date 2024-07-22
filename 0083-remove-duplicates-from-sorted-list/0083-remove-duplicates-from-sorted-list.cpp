@@ -15,7 +15,7 @@ public:
         if(head==nullptr || head->next==nullptr)
             return head;
         ListNode *i = head;
-        while(i!=nullptr&&i->next!=nullptr)
+        while(i->next!=nullptr)
         {
             if(i->val==i->next->val)
                 i->next=i->next->next;

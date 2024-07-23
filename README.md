@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sesh93/My-progs/tree/master/0020-valid-parentheses) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Sesh93/My-progs/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Sesh93/My-progs/tree/master/0234-palindrome-linked-list) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Sesh93/My-progs/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Sesh93/My-progs/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
@@ -210,4 +211,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/Sesh93/My-progs/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Sesh93/My-progs/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Sesh93/My-progs/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Sesh93/My-progs/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Sesh93/My-progs/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Sesh93/My-progs/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->

@@ -14,17 +14,17 @@ private:
     vector<int> ans;
 public:
     
-    void preorder(TreeNode *root, vector<int> &ans)
+    void preorder(TreeNode *root)
     {
         if(root==NULL)
             return;
         ans.push_back(root->val);
-        preorder(root->left,ans);
-        preorder(root->right,ans);
+        preorder(root->left);
+        preorder(root->right);
     }
     vector<int> preorderTraversal(TreeNode* root) 
     {
-        preorder(root,ans);
+        preorder(root);
         return ans;
     }
 };

@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Sesh93/My-progs/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sesh93/My-progs/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/Sesh93/My-progs/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/Sesh93/My-progs/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/Sesh93/My-progs/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/Sesh93/My-progs/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sesh93/My-progs/tree/master/0084-largest-rectangle-in-histogram) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Sesh93/My-progs/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Sesh93/My-progs/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sesh93/My-progs/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/Sesh93/My-progs/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Sesh93/My-progs/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Sesh93/My-progs/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Sesh93/My-progs/tree/master/0125-valid-palindrome) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Sesh93/My-progs/tree/master/0042-trapping-rain-water) |
 | [0392-is-subsequence](https://github.com/Sesh93/My-progs/tree/master/0392-is-subsequence) |
 ## Sliding Window
 |  |
@@ -191,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sesh93/My-progs/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Sesh93/My-progs/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sesh93/My-progs/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Sesh93/My-progs/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sesh93/My-progs/tree/master/0144-binary-tree-preorder-traversal) |
@@ -236,5 +240,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Sesh93/My-progs/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sesh93/My-progs/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->

@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Sesh93/My-progs/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sesh93/My-progs/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Sesh93/My-progs/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/Sesh93/My-progs/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sesh93/My-progs/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Sesh93/My-progs/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/Sesh93/My-progs/tree/master/0239-sliding-window-maximum) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Sesh93/My-progs/tree/master/0054-spiral-matrix) |
+| [0200-number-of-islands](https://github.com/Sesh93/My-progs/tree/master/0200-number-of-islands) |
 | [0898-transpose-matrix](https://github.com/Sesh93/My-progs/tree/master/0898-transpose-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Sesh93/My-progs/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/Sesh93/My-progs/tree/master/1677-matrix-diagonal-sum) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Sesh93/My-progs/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sesh93/My-progs/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sesh93/My-progs/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/Sesh93/My-progs/tree/master/0200-number-of-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -262,4 +265,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/Sesh93/My-progs/tree/master/0948-sort-an-array) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Sesh93/My-progs/tree/master/0200-number-of-islands) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Sesh93/My-progs/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->

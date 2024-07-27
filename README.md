@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sesh93/My-progs/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Sesh93/My-progs/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Sesh93/My-progs/tree/master/0032-longest-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Sesh93/My-progs/tree/master/0125-valid-palindrome) |
 | [0214-shortest-palindrome](https://github.com/Sesh93/My-progs/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/Sesh93/My-progs/tree/master/0242-valid-anagram) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Sesh93/My-progs/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Sesh93/My-progs/tree/master/0042-trapping-rain-water) |
 | [0392-is-subsequence](https://github.com/Sesh93/My-progs/tree/master/0392-is-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/Sesh93/My-progs/tree/master/0516-longest-palindromic-subsequence) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sesh93/My-progs/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Sesh93/My-progs/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Sesh93/My-progs/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sesh93/My-progs/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Sesh93/My-progs/tree/master/0094-binary-tree-inorder-traversal) |

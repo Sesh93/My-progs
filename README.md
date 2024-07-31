@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Sesh93/My-progs/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/Sesh93/My-progs/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/Sesh93/My-progs/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Sesh93/My-progs/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sesh93/My-progs/tree/master/0084-largest-rectangle-in-histogram) |
 | [0136-single-number](https://github.com/Sesh93/My-progs/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sesh93/My-progs/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Sesh93/My-progs/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Sesh93/My-progs/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Sesh93/My-progs/tree/master/0231-power-of-two) |
 | [2427-first-letter-to-appear-twice](https://github.com/Sesh93/My-progs/tree/master/2427-first-letter-to-appear-twice) |
@@ -294,4 +296,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Sesh93/My-progs/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/Sesh93/My-progs/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->

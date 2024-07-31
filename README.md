@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sesh93/My-progs/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Sesh93/My-progs/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Sesh93/My-progs/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Sesh93/My-progs/tree/master/0032-longest-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Sesh93/My-progs/tree/master/0125-valid-palindrome) |
 | [0214-shortest-palindrome](https://github.com/Sesh93/My-progs/tree/master/0214-shortest-palindrome) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Sesh93/My-progs/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Sesh93/My-progs/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Sesh93/My-progs/tree/master/0042-trapping-rain-water) |
 | [0392-is-subsequence](https://github.com/Sesh93/My-progs/tree/master/0392-is-subsequence) |
@@ -288,4 +290,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Sesh93/My-progs/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Sesh93/My-progs/tree/master/0784-insert-into-a-binary-search-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Sesh93/My-progs/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->

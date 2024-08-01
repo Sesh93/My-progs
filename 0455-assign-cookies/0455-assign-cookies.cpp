@@ -12,12 +12,8 @@ public:
             {
                 count++;
                 i++;
-                j++;
             }
-            else
-            {
-                j++;
-            }
+            j++;
         }
         return count;
     }

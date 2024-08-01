@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Sesh93/My-progs/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Sesh93/My-progs/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/Sesh93/My-progs/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/Sesh93/My-progs/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/Sesh93/My-progs/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Sesh93/My-progs/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sesh93/My-progs/tree/master/0084-largest-rectangle-in-histogram) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Sesh93/My-progs/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Sesh93/My-progs/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Sesh93/My-progs/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/Sesh93/My-progs/tree/master/0055-jump-game) |
 | [0392-is-subsequence](https://github.com/Sesh93/My-progs/tree/master/0392-is-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/Sesh93/My-progs/tree/master/0516-longest-palindromic-subsequence) |
 ## Sliding Window
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Sesh93/My-progs/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/Sesh93/My-progs/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/Sesh93/My-progs/tree/master/0890-lemonade-change) |
 <!---LeetCode Topics End-->

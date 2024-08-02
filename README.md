@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Sesh93/My-progs/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Sesh93/My-progs/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Sesh93/My-progs/tree/master/0258-add-digits) |
+| [1013-fibonacci-number](https://github.com/Sesh93/My-progs/tree/master/1013-fibonacci-number) |
 | [2645-pass-the-pillow](https://github.com/Sesh93/My-progs/tree/master/2645-pass-the-pillow) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Sesh93/My-progs/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Divide and Conquer
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Sesh93/My-progs/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Sesh93/My-progs/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Sesh93/My-progs/tree/master/0234-palindrome-linked-list) |
+| [1013-fibonacci-number](https://github.com/Sesh93/My-progs/tree/master/1013-fibonacci-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Sesh93/My-progs/tree/master/0055-jump-game) |
 | [0392-is-subsequence](https://github.com/Sesh93/My-progs/tree/master/0392-is-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/Sesh93/My-progs/tree/master/0516-longest-palindromic-subsequence) |
+| [1013-fibonacci-number](https://github.com/Sesh93/My-progs/tree/master/1013-fibonacci-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -315,4 +318,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Sesh93/My-progs/tree/master/0258-add-digits) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Sesh93/My-progs/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->

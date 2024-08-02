@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Sesh93/My-progs/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Sesh93/My-progs/tree/master/0258-add-digits) |
 | [1013-fibonacci-number](https://github.com/Sesh93/My-progs/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/Sesh93/My-progs/tree/master/1236-n-th-tribonacci-number) |
 | [2645-pass-the-pillow](https://github.com/Sesh93/My-progs/tree/master/2645-pass-the-pillow) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Sesh93/My-progs/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Divide and Conquer
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Sesh93/My-progs/tree/master/0392-is-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/Sesh93/My-progs/tree/master/0516-longest-palindromic-subsequence) |
 | [1013-fibonacci-number](https://github.com/Sesh93/My-progs/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/Sesh93/My-progs/tree/master/1236-n-th-tribonacci-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -322,4 +324,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/Sesh93/My-progs/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/Sesh93/My-progs/tree/master/1236-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->

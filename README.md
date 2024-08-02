@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Sesh93/My-progs/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/Sesh93/My-progs/tree/master/0455-assign-cookies) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Sesh93/My-progs/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0747-min-cost-climbing-stairs](https://github.com/Sesh93/My-progs/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/Sesh93/My-progs/tree/master/0792-binary-search) |
 | [0890-lemonade-change](https://github.com/Sesh93/My-progs/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/Sesh93/My-progs/tree/master/0898-transpose-matrix) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Sesh93/My-progs/tree/master/0070-climbing-stairs) |
 | [0392-is-subsequence](https://github.com/Sesh93/My-progs/tree/master/0392-is-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/Sesh93/My-progs/tree/master/0516-longest-palindromic-subsequence) |
+| [0747-min-cost-climbing-stairs](https://github.com/Sesh93/My-progs/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Sesh93/My-progs/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Sesh93/My-progs/tree/master/1236-n-th-tribonacci-number) |
 ## Sliding Window
